@@ -12,8 +12,13 @@ This could definitely use a better data source.  This source is not precise, and
 from https://worldpopulationreview.com/state-rankings/abortion-laws-by-state  
 This could definitely use a better data source.  Quantification of abortion accessibility and quantification of different laws is necessary.  Trying to reach out to https://www.guttmacher.org/state-policy/explore/overview-abortion-laws and https://www.verywellhealth.com/abortion-access-ranking-states-5202659
 
+[Abortion Policy](State Abortion Policies Post Roe.xlsx):  
+From Guttmacher Institute https://states.guttmacher.org/policies/abortion-policies, via email
+
 [2005,2014-2020 infant mortality data](infant_mortality_by_state.csv): 
 from https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm.  See https://wonder.cdc.gov/lbd.html for more detailed queries
 
-[Legislative Control](Legislative Control pdfs)
+[Legislative Control](/Legislative Control pdfs/)
 From https://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx
+
+
