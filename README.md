@@ -18,7 +18,7 @@ From Guttmacher Institute https://states.guttmacher.org/policies/abortion-polici
 [2005,2014-2020 infant mortality data](infant_mortality_by_state.csv): 
 from https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm.  See https://wonder.cdc.gov/lbd.html for more detailed queries
 
-[Legislative Control](Legislative%20Control%20pdfs)
+[Legislative Control](Legislative_Control_pdfs)
 From https://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx
 
 
