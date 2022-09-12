@@ -15,7 +15,7 @@ This could definitely use a better data source.  Quantification of abortion acce
 [Abortion Policy](State%20Abortion%20Policies%20Post%20Roe.xlsx):  
 From Guttmacher Institute https://states.guttmacher.org/policies/abortion-policies, via email
 
-[2005,2014-2020 infant mortality data](infant_mortality_by_state.csv): 
+[2005,2014-2020 infant mortality data](infant_mortality_by_state.csv):  
 from https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm.  See https://wonder.cdc.gov/lbd.html for more detailed queries
 
 [Legislative Control](Legislative_Control_pdfs):  
