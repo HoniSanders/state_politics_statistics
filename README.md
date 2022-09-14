@@ -21,4 +21,6 @@ from https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mor
 [Legislative Control](Legislative_Control_pdfs):  
 From https://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx
 
+[Mortgage Data](hmda_2017_nationwide_first-lien-owner-occupied-1-4-family-records_labels_first1000000.csv):  
+From https://www.consumerfinance.gov/data-research/hmda/historic-data/  I only included the first 100,000 records from 2017 for space reasons
 
